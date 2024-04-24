@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "location": "Itacaré-BA",
+        "description": "Com mar calmo, ampla infraestrutura, muitas opções de passeios, pousadas, restaurantes e quiosques, a Concha é o destino certo de quem não abre mão de serviços à beira do mar.",
+        "url": "https://itacare.com.br/itacare/fotos/havaizinho2021.jpg"
+    },
+    {
+        "id": 2,
+        "location": "Pancada Grande-BA",
+        "description": "O acesso para a cachoeira é pelo centro de Ituberá, onde há bastante sinalização, com placas indicando o caminho para a Cachoeira Pancada Grande, sem necessidade de guias.",
+        "url": "https://www.nabahia.com.br/fotos/noticias/1297/mg/Programa-MICHELIN-Ouro-Verde-Bahia-3-1024x682.jpg"
+    },
+    {
+        "id": 3,
+        "location": "Itacaré-BA",
+        "description": "Com mar calmo, ampla infraestrutura, muitas opções de passeios, pousadas, restaurantes e quiosques, a Concha é o destino certo de quem não abre mão de serviços à beira do mar.",
+        "url": "https://adritur.com.br/wp-content/uploads/2020/10/Pratigi.jpg"
+    }
+]
+    

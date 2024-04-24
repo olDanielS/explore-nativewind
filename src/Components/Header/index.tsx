@@ -9,7 +9,7 @@ export default function Header() {
     const navigation = useNavigation<DrawerNavigationProp<ParamListBase>>();
 
     return (
-        <View className='flex h-10 justify-between item-center flex-row '>
+        <View className='flex h-10 justify-between item-center flex-row m-4'>
             <View>
                 <TouchableOpacity onPress={() => navigation.openDrawer()}>
                     <Feather name='menu' size={30} color='#FFF' />

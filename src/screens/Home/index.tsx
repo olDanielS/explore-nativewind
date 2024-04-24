@@ -1,4 +1,4 @@
-import { View, Text, TextInput, TouchableWithoutFeedback, Keyboard, FlatList } from 'react-native';
+import { View, Text, TextInput, TouchableWithoutFeedback, Keyboard, FlatList, SafeAreaView } from 'react-native';
 
 import locations from '../../Services/data.json'
 
@@ -12,10 +12,9 @@ export default function Home() {
   
   return (
     <TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
-
-      <View className={"flex-1 bg-primary-black p-5"}>
+      <View className={"flex-1 bg-primary-black"}>
         <Header />
-        <View className='flex-1 mt-5'>
+        <View className='flex-1 p-3'>
           <View className='flex-row items-center'>
             <Text className='text-5xl text-white font-bold '>Explore</Text>
             <Feather name='chevron-down' size={24} color='#FFF' />
